@@ -8,6 +8,7 @@ Datos sin filtrar (se encuentran en la carpeta compartida >> Conjuntos de datos>
 - obtenidos del archivo que se llama *"corpusELElimpioUTF5pp.csv"*. Los archivos están estratificados por 'Mother tongue' y 'Level'.
 - el 80% de los datos de origen son para entrenar y validar (*"train_set.csv"*) y el 20% para testear (*"test_set.csv"*).
 - De ese 80%, el conjunto de datos para entrenar supone el 90% (*"train_train_set.csv"*) y el de validación el 10% (*"validation_train_set.csv"*).
+
 Datos filtrados (en la carpeta compartida y este repositorio en *datasets*:
 - obtenidos del archivo que se llama *"data.csv"*. Los archivos están estratificados por 'Mother tongue' y 'Level'.
 - el 80% de los datos de origen son para entrenar y validar (*"train_set.csv"*) y el 20% para testear (*"test_set.csv"*).
