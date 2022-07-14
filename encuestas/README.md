@@ -1,4 +1,6 @@
-- El archivo *sentencesRandom.csv* tiene 60 frases, 2 por cada idioma (6 distintos) y nivel (5 distintos)
-- El archivo *sentences20Random.csv* tiene 20 frases, 4 de cada nivel (5 distintos) que salen del archivo *sentencesRandom.csv*
-- El archivo *sentences20RandomShuffle.csv* tiene las 20 frases del archivo *sentences20Random.csv* mezcladas
+- El archivo *sentences40Random.csv* tiene 40 frases, 1 por cada idioma (6 distintos) y nivel (5 distintos), y 2 más por nivel de tal forma que estas dos no sean de la misma lengua materna.
+- El archivo *sentences40RandomShuffle.csv* tiene las 40 frases del archivo *sentences40Random.csv* mezcladas.
+- Los archivos *groupSentences_n.csv* con n={1,2,3,4} representa el archivo de preguntas de cada una de las personas que las van a analizar. 
+  - Las 40 frases están repartidas por los distintos archivos de tal manera que cada frase está repetida en 3 archivos.
+- Los archivos *groupSentences_n_cleaned* son los ficheros que se le pasan a Mapi, únicamente con las frases.
 
