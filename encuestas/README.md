@@ -3,4 +3,5 @@
 - Los archivos *groupSentences_n.csv* con n={1,2,3,4} representa el archivo de preguntas de cada una de las personas que las van a analizar. 
   - Las 40 frases están repartidas por los distintos archivos de tal manera que cada frase está repetida en 3 archivos.
 - Los archivos *groupSentences_n_cleaned* son los ficheros que se le pasan a Mapi, únicamente con las frases.
-
+- El archivo **Formulario_clasificación muestras ELE_respuestas.xlsx** tiene el tratamiento de las respuestas de las encuestas vs CAES vs DeepELE.
+- El archivo *DESCRIPCIÓN y CONCLUSIONES.docx* describe los datos que hay en *Formulario_clasificación muestras ELE_respuestas.xlsx*.
